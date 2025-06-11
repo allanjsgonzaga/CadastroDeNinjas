@@ -1,0 +1,4 @@
+Cadastro de missoesaadaDSDazxczxcczcc
+cada ninja só pode ter uma missao por vez
+cada missão pode ter mais de um ninja
+um ninja só poderá receber outra missão se a anterior for finalizada
